@@ -34,10 +34,15 @@ assets/
 ├── password.png
 └── privacy.png
 ```
-## 🧪 Getting Started
 
-```bash
+
+## 🧪 Getting Started
 git clone https://github.com/SainediAmbika/iPhoneSettingsReplica.git
 cd iPhoneSettingsReplica
 flutter pub get
 flutter run
+
+
+<img width="445" height="903" alt="flutter_ios_settings_ui" src="https://github.com/user-attachments/assets/8f71006b-036b-4516-90be-f0e14f2acb8d" />
+
+
