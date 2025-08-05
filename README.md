@@ -22,7 +22,7 @@ A Flutter UI replica of the iPhone Settings screen using only Cupertino widgets.
 - Toggle buttons for options like Airplane Mode
 
 ## 🛠 Project Structure
-
+```
 lib/
 ├── main.dart
 └── settings_page.dart // Main UI with all sections and reusable tile builders
@@ -33,7 +33,7 @@ assets/
 ├── switch.png
 ├── password.png
 └── privacy.png
-
+```
 ## 🧪 Getting Started
 
 ```bash
